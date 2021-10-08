@@ -13,7 +13,7 @@
 
 ## About me
 
- I graduated from Universidade Federal Rural do Rio de Janeiro with a Bachelor of History, but have gained a massive interest in web development and technologies. I'm passionate about building things with code. I guess that makes me a Programming Historian or maybe a multidisciplinary web developer.
+ I graduated from Universidade Federal Rural do Rio de Janeiro with a Bachelor of History, but have gained a massive interest in web development and technologies. I'm passionate about building things with code. I guess that makes me a Programming Historian or maybe a Multidisciplinary Web Developer.
  Since being introduced to coding I have started reading articles, listening to podcasts, taking online courses and creating a portfolio of projects. I sincerely think that I've discovered my passion in life.
 
 ## Languages and tools
