@@ -3,7 +3,7 @@
 
  
 
-:computer: I'm Front-End Developer from Rio de Janeiro, Brasil!
+:computer: I'm Front-End Developement Student from Rio de Janeiro, Brasil!
 
 🌱 I’m currently learning JavaScript.
 
