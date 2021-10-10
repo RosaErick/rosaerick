@@ -8,7 +8,8 @@
 🌱 I’m currently learning JavaScript.
 
  👯 I’m looking to collaborate on open-source projects!
- 🌱 I've worked on some [projects](https://rosaerick.github.io/my-projects/)
+ 
+ 🌱 I've worked on some [projects](https://rosaerick.github.io/my-projects/).
 
 
 
