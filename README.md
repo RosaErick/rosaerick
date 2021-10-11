@@ -15,7 +15,7 @@
 
 ## About me
 
- I'm 26, I graduated from Universidade Federal Rural do Rio de Janeiro with a degree in History, but have gained a massive interest in web development and technologies. I'm passionate about building things with code. I guess that makes me a Programming Historian or maybe a Multidisciplinary Web Developer.
+ I'm 26, I graduated from Universidade Federal Rural do Rio de Janeiro with a degree in History, but have gained a massive interest in software development. I'm passionate about building things with code. I guess that makes me a Programming Historian or maybe a Multidisciplinary Web Developer.
  Since being introduced to coding I have started reading articles, listening to podcasts, taking online courses and creating a portfolio of projects. 
 
 ## Languages and tools
