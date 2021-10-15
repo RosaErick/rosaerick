@@ -18,8 +18,16 @@
  I'm 26, I graduated from Universidade Federal Rural do Rio de Janeiro with a degree in History, but have gained a massive interest in software development. I'm passionate about building things with code. I guess that makes me a Programming Historian or maybe a Multidisciplinary Web Developer.
  Since being introduced to coding I have started reading articles, listening to podcasts, taking online courses and creating a portfolio of projects. 
 
-## Languages and tools
 
+
+## You can find me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='20' style="margin-right: 10px">](https://www.linkedin.com/in/erick-rosa-1465a07a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='CodePen' height='20' style="margin-right: 10px">](https://codepen.io/rosaerick) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='20'>](https://www.instagram.com/erickrozza/)
+
+
+
+
+## Languages and tools
 
 ![4r5 (1)](https://user-images.githubusercontent.com/49876146/136490327-0af71396-72ba-46a6-889e-f609ab779c7f.png) 
 ![css-file-format (1)](https://user-images.githubusercontent.com/49876146/136490795-16f67909-b548-481d-85d9-054025be6560.png) 
