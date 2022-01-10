@@ -5,7 +5,7 @@
 
 :computer: I'm a Web Developement Student from Rio de Janeiro, Brasil!
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning  React and JavaScript.
 
  👯 I’m looking to collaborate on open-source projects!
  
