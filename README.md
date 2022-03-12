@@ -27,7 +27,6 @@
 
 
 
-
 #### Feel free to contact me and thanks for visiting.
 
 <!--
@@ -42,4 +41,7 @@ Here are some ideas to get you started
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+##### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosaerick&count_private=true)
 -->
