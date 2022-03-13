@@ -18,10 +18,7 @@
  I graduated from Universidade Federal Rural do Rio de Janeiro with a degree in History, but have gained a massive interest in software development. I'm passionate about building things with code. I guess that makes me a multidisciplinary Web Developer.
  Since being introduced to coding I have started reading articles, listening to podcasts, taking online courses and creating a portfolio of projects. 
 
-## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosaerick&show_icons=true&count_private=true&hide=issues)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosaerick&layout=compact&langs_count=10)](https://github.com/rosaerick/github-readme-stats)
 
 
 
@@ -45,7 +42,10 @@ Here are some ideas to get you started
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosaerick&show_icons=true&count_private=true&hide=issues)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosaerick&layout=compact&langs_count=10)](https://github.com/rosaerick/github-readme-stats)
 
 ##### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosaerick&count_private=true)
 -->
