@@ -1,6 +1,5 @@
-<samp>
- 
 ### Hey! 👋🥝
+<samp>
 
  <details>
   <summary>📈 Stats</summary>
