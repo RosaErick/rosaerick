@@ -13,9 +13,9 @@
   <summary>📰 TLDR</summary>
   <br>
   
-- 🔭 I’m currently working on a SaaS project
+- 🔭 I’m currently working on a SaaS project.
 - 🌱  I’m currently learning and building with React and Next.js.
-- 👯 I’m looking to collaborate on **anything. Reach out to me**
+- 👯 I’m looking to collaborate on **anything. Reach out to me**.
 - 📫 How to reach me: **[erickpmotta@gmail.com](mailto:erickpmotta@gmail.com)**
 - 🌱 I've worked on some [projects](https://rosaerick.github.io/my-projects/).
 </details>
