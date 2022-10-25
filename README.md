@@ -1,7 +1,7 @@
 ### Hey! 👋🥝
 <samp>
 
-My name is Erick Rosa, a history teacher turned software developer currently based in Rio, i like to build things to build other things and sometimes i write some stuff.
+My name is Erick Rosa, a history teacher turned web developer currently based in Rio, i like to build things to build other things and sometimes i write some stuff.
 
 <details>
   <summary>👏 You can find me</summary>
