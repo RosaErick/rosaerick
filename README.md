@@ -1,13 +1,13 @@
 ### 👋🥝
 <samp>
 
-A history teacher turned web developer currently based in Rio, i like to build things to build other things and sometimes i write some stuff.
+A history teacher turned web developer currently based in Rio, internet person, likes to write code in between naps.
 
 <details>
   <summary>🦀 You can find me</summary>
   <br>
   
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='20' style="margin-right: 10px">](https://www.linkedin.com/in/erick-rosa-1465a07a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='20'>](https://www.instagram.com/erickrozza/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='20' style="margin-right: 10px">](https://www.linkedin.com/in/erick-rosa-1465a07a/) 
   <br>  
 #### 🐙 Feel free to contact me and thanks for visiting.
 </samp>
