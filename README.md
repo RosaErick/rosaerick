@@ -1,7 +1,7 @@
 ### 👋🥝
 <samp>
 
-A history teacher turned web developer currently based in Rio, internet person, likes to write code in between naps.
+web developer currently based in Rio, internet person, likes to write code in between naps, #FOSS and criticize tech futures.
 
 <details>
   <summary>🦀 You can find me</summary>
